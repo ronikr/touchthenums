@@ -1,0 +1,23 @@
+body {
+    background-color: powderblue;
+}
+div {
+  margin: 2em;
+}
+.gameBoard {
+    border: 1px solid black
+}
+td {
+  border: 1px solid black
+}
+.top-bar {
+  background-color: #99ffff;
+  display: block;
+}
+.top-bar > div {
+  display: inline-block;
+}
+.counter {
+  color: yellow;
+  background-color: black;
+}
